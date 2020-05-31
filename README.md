@@ -1,2 +1,2 @@
 # Digital-Communication
-Contain solution of all assignment of course Digital Communication [EC31002]
+Contain all the assignment and it's solution for the course Digital Communication [EC31002]
